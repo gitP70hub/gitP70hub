@@ -78,15 +78,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitP70hub&bg_color=0d1117&color=58a6ff&line=4c8ed9&point=1abc9c&area=true&hide_border=true" />
 </p>
 
----
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/sankalp-ramteke-35a83224a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:pranalikhonde93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://instagram.com/sankalp.codes"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
-</p>
 
 ---
 
